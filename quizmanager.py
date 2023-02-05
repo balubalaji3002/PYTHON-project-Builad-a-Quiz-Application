@@ -1,4 +1,4 @@
-# Example file for LinkedIn Learning Course "Python: Build a Quiz App" by Joe Marini
+# Learned from LinkedIn Learning Course "Python: Build a Quiz App" 
 # QuizManager manages the quiz content
 import os.path
 import os
