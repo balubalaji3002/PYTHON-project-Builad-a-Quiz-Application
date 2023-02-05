@@ -1,4 +1,4 @@
-#Learned from LinkedIn Learning Course "Python: Build a Quiz App" Balaji.k
+#Learned from LinkedIn Learning Course "Python: Build a Quiz App"
 # The Quiz and Question classes define a particular quiz
 import datetime
 import sys
