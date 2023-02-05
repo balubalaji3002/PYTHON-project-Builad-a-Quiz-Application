@@ -1,4 +1,4 @@
-# Example file for LinkedIn Learning Course "Python: Build a Quiz App" by Joe Marini
+# learned from  LinkedIn Learning Course "Python: Build a Quiz App" by Balaji.k
 # pyquiz.py -- Main starting point of the program
 from quizmanager import QuizManager
 
